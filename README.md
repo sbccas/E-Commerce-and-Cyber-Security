@@ -24,8 +24,8 @@ Welcome to the E-Commerce-and-Cyber-Security Material repository! This is your o
 
 If you're new to E-Commerce-and-Cyber-Security Material, start with the basics:
 
-- [Learn about Syllabus](1_Syllabus/602 E-Commerce and Cyber Security Syllabus 2022-23.pdf)
-- [Other Resources ]
+- ([Learn about Syllabus](https://github.com/sbccas/E-Commerce-and-Cyber-Security/blob/main/1_Syllabus/602%20E-Commerce%20and%20Cyber%20Security%20Syllabus%202022-23.pdf))
+- [Other Resources](1_Syllabus/602 E-Commerce and Cyber Security Syllabus 2022-23.pdf)
 - [Need Help]
 
 ## Material Notes
